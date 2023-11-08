@@ -1,8 +1,29 @@
-# React + Vite
+# React Tenzies 
+Tenzies dice game made using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## How to run :
++ npm install
++ npm run dev
 
-Currently, two official plugins are available:
+The web server should be available at http://localhost:5173/react-tenzies/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack :
++ Vite to launch and configure local server and to bundle source files.
++ React to design components.
++ JS
++ CSS vanilla
++ HTML5
+
+## What I've learned :
++ conditional styling;
++ tracking state using side Effects
++ Deployed on GitHub Pages;
+
+## What I've continued to learn :
++ git usage,
++ css,
++ html,
++ js,
++ props,
++ state,
++ side effects,
