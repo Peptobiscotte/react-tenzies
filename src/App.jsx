@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { nanoid } from 'nanoid'
 import Die from "./Die.jsx"
 
 function App() {
